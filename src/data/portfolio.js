@@ -14,7 +14,7 @@ export default [
     {
         title: 'Todo-List',
         imgUrl: '/assets/TodoList.png',
-        stack: ['React', 'CSS', 'Vite'],
+        stack: ['React', 'Material UI', 'Vite'],
         link: 'https://oseij96.github.io/Todo-List/',
     },
 ]
