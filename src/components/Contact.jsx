@@ -18,13 +18,18 @@ export default function Contact() {
                         className="p-2 bg-transparent border-2 rounded-md focus:outline-none"
                         required
                     />
-                    <input
-                        type="email"
-                        name="email"
-                        placeholder="Email"
-                        className="my-2 p-2 bg-transparent border-2 rounded-md focus:outline-none"
-                        required
-                    />
+                    <label for="email" class="mb-5">
+                        <input
+                            type="email"
+                            name="email"
+                            placeholder="Email"
+                            className="my-2 p-2 bg-transparent border-2 rounded-md focus:outline-none"
+                            required
+                        />
+                        <span class="mt-2 hidden text-sm text-red-500 peer-[&:not(:placeholder-shown):not(:focus):invalid]:block">
+                            Please enter a valid email address
+                        </span>
+                    </label>
                     <textarea
                         name="message"
                         placeholder="Message"
