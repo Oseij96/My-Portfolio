@@ -1,8 +1,10 @@
-
+// vite.config.js
 export default {
   build: {
     rollupOptions: {
-      external: ['/assets/index-56f02ced.js'],
+      output: {
+        assetFileNames: 'assets/[name].[ext]',
+      },
     },
   },
 };
