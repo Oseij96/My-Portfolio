@@ -16,18 +16,21 @@ export default function Contact() {
                         name="name"
                         placeholder="Name"
                         className="p-2 bg-transparent border-2 rounded-md focus:outline-none"
+                        required
                     />
                     <input
-                        type="text"
+                        type="email"
                         name="email"
                         placeholder="Email"
                         className="my-2 p-2 bg-transparent border-2 rounded-md focus:outline-none"
+                        required
                     />
                     <textarea
                         name="message"
                         placeholder="Message"
                         rows="10"
                         className="p-2 mb-4 bg-transparent border-2 rounded-md focus:outline-none"
+                        required
                     >
                     </textarea>
                     <button className="text-center inline-block px-8 py-3 w-max 
