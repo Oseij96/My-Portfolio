@@ -29,7 +29,7 @@ I'm currently a web developer, excited about building user-friendly and responsi
 ### Project 3: Todo-List
 ![Project 3](./public/assets/TodoList.png)
 
-- Description: CakingWithKayLdn is a website I made for my 14 year old niece's cake business. It showcases a delightful collection of homemade cakes, brownies, and cupcakes. It aims to bring joy and sweetness to every occasion with its delectable treats that are made with love and passion for baking.
+- Description: The Todo List App is a simple and intuitive task management application built with React and Material-UI. It allows users to organize their tasks, track progress, and stay on top of their to-do lists with ease.
 - Technologies Used: HTML5, CSS3, Bootstrap, JavaScript
 - Live Demo: https://oseij96.github.io/Todo-List/
 - GitHub Repository: https://github.com/Oseij96/Todo-List
