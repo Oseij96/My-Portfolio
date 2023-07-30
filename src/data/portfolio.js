@@ -9,7 +9,7 @@ export default [
         title: 'CakingWithKayLdn Website',
         imgUrl: '/assets/CakingWithKayLdn.png',
         stack: ['HTML', 'CSS', 'JS'],
-        link: 'https://oseij96.github.io/CakingWithKayLdn/',
+        link: 'https://cakingwithkayldn.netlify.app',
     },
     {
         title: 'Todo-List',
