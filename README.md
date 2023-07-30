@@ -13,9 +13,9 @@ I'm currently a web developer, excited about building user-friendly and responsi
 ### Project 1: YelpCamp
 ![Project 1](project1-thumbnail.jpg) <!-- Replace "project1-thumbnail.jpg" with a link to the thumbnail image of your project -->
 
-- Description: A brief description of the project, its purpose, and key features.
+- Description: YelpCamp is a web application that allows users to discover and share campgrounds from around the world. Users can sign up, log in, and create their own campgrounds, complete with descriptions and images. The app provides basic functionalities for managing campgrounds, comments, and user accounts, ensuring a seamless and enjoyable user experience.
 - Technologies Used: List the technologies and frameworks you used to build this project.
-- Live Demo: [Link to Live Demo](https://your-project-live-demo-url.com) <!-- Replace with the actual link to your live demo -->
+- Live Demo: https://campconnect.onrender.com/
 - GitHub Repository: [Link to GitHub Repo](https://github.com/your-username/project1) <!-- Replace with the actual link to your GitHub repository -->
 
 ### Project 2: CakingWithKayLdn
