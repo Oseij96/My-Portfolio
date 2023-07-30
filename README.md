@@ -19,12 +19,12 @@ I'm currently a web developer, excited about building user-friendly and responsi
 - GitHub Repository: https://github.com/Oseij96/YelpCamp
 
 ### Project 2: CakingWithKayLdn
-![Project 2](project2-thumbnail.jpg) <!-- Replace "project2-thumbnail.jpg" with a link to the thumbnail image of your project -->
+![Project 2](./public/assets/CakingWithKayLdn.png)
 
-- Description: A brief description of the project, its purpose, and key features.
-- Technologies Used: List the technologies and frameworks you used to build this project.
-- Live Demo: [Link to Live Demo](https://your-project-live-demo-url.com) 
-- GitHub Repository: [Link to GitHub Repo](https://github.com/your-username/project2) 
+- Description: CakingWithKayLdn is a website I made for my 14 year old niece's cake business. It showcases a delightful collection of homemade cakes, brownies, and cupcakes. It aims to bring joy and sweetness to every occasion with its delectable treats that are made with love and passion for baking.
+- Technologies Used: HTML5, CSS3, Bootstrap, JavaScript
+- Live Demo: https://oseij96.github.io/CakingWithKayLdn/
+- GitHub Repository: https://github.com/Oseij96/CakingWithKayLdn 
 
 
 
