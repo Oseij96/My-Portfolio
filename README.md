@@ -14,7 +14,7 @@ I'm currently a web developer, excited about building user-friendly and responsi
 ![Project 1](project1-thumbnail.jpg) <!-- Replace "project1-thumbnail.jpg" with a link to the thumbnail image of your project -->
 
 - Description: YelpCamp is a web application that allows users to discover and share campgrounds from around the world. Users can sign up, log in, and create their own campgrounds, complete with descriptions and images. The app provides basic functionalities for managing campgrounds, comments, and user accounts, ensuring a seamless and enjoyable user experience.
-- Technologies Used: List the technologies and frameworks you used to build this project.
+- Technologies Used:[ejs](http://ejs.co/), [Bootstrap](https://getbootstrap.com/docs/3.3/, [express](https://expressjs.com/), [mongoDB](https://www.mongodb.com/), [mongoose](http://mongoosejs.com/), [async](http://caolan.github.io/async/), [crypto](https://nodejs.org/api/crypto.html#crypto_crypto), [helmet](https://helmetjs.github.io/), [passport](http://www.passportjs.org/), [passport-local](https://github.com/jaredhanson/passport-local#passport-local), [express-session](https://github.com/expressjs/session#express-session), [method-override](https://github.com/expressjs/method-override#method-override), [cloudinary](https://cloudinary.com/), [geocoder](https://github.com/wyattdanger/geocoder#geocoder), [connect-flash](https://github.com/jaredhanson/connect-flash#connect-flash)
 - Live Demo: https://campconnect.onrender.com/
 - GitHub Repository: [Link to GitHub Repo](https://github.com/your-username/project1) <!-- Replace with the actual link to your GitHub repository -->
 
