@@ -23,7 +23,7 @@ I'm currently a web developer, excited about building user-friendly and responsi
 
 - Description: CakingWithKayLdn is a website I made for my 14 year old niece's cake business. It showcases a delightful collection of homemade cakes, brownies, and cupcakes. It aims to bring joy and sweetness to every occasion with its delectable treats that are made with love and passion for baking.
 - Technologies Used: HTML5, CSS3, Bootstrap, JavaScript
-- Live Demo: https://oseij96.github.io/CakingWithKayLdn/
+- Live Demo: https://cakingwithkayldn.netlify.app/
 - GitHub Repository: https://github.com/Oseij96/CakingWithKayLdn
 
 ### Project 3: Todo-List
