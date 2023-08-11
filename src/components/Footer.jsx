@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="py-5 text-center">
             <a
                 href="https://github.com/Oseij96"
-                className="text-sm text-gray-500 hover:text-gray-800 transition duration-300"
+                className="mr-5 text-sm text-gray-500 hover:text-gray-800 transition duration-300"
             >
                 <FontAwesomeIcon icon={faGithubSquare} size="2x" />
             </a>
