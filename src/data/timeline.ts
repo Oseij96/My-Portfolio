@@ -62,6 +62,18 @@ export const timelineEvents: TimelineEvent[] = [
   },
   {
     id: '10',
+    title: 'Started Learning MySQL',
+    date: 'March 2025',
+    description: 'I continued my learning process and wanted to learn how to use a popular database. I explored MySQL to understand relational data structures, practiced writing queries, joins, and CRUD operations, and integrated it with backend applications to build full-stack functionality.',
+  },
+  {
+    id: '11',
+    title: 'Began Learning Python',
+    date: 'May 2025',
+    description: 'After gaining confidence in web development and databases, I began learning Python to strengthen my programming fundamentals. I explored its syntax, built small applications, and started using it for backend logic, automation, and data manipulation. Python’s simplicity and versatility have made it an exciting addition to my developer toolkit.',
+  },
+  {
+    id: '12',
     title: 'Present Day',
     date: 'Today',
     description: 'Continuing to expand my knowledge and skills in web development while working on personal and client projects. Focused on staying current with emerging technologies and best practices. Excited about future opportunities and challenges in this ever-evolving field.',
