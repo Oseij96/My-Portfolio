@@ -45,19 +45,19 @@ export const timelineEvents: TimelineEvent[] = [
   {
     id: '7',
     title: 'Started Learning TypeScript',
-    date: 'May 2022',
+    date: 'May 2023',
     description: 'Began incorporating TypeScript into my projects to enhance code quality and developer experience. The static typing system helped catch errors early and improved the maintainability of my codebases. This was a significant step up in my development practices.',
   },
   {
     id: '8',
     title: 'Learned React Framework',
-    date: 'August 2022',
+    date: 'August 2023',
     description: 'Dived deep into React.js, learning about components, state management, hooks, and the virtual DOM. Created multiple single-page applications and began to understand the power of component-based architecture. This opened up new possibilities for building interactive UIs.',
   },
   {
     id: '9',
     title: 'Incorporating React.js For To-Do List Web App',
-    date: 'December 2022',
+    date: 'December 2023',
     description: 'The Todo List App is a simple and intuitive task management application built with React and Material-UI. It allows users to organize their tasks, track progress, and stay on top of their to-do lists with ease.',
   },
   {
