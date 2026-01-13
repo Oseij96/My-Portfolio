@@ -43,7 +43,7 @@ const Hero: React.FC = () => {
           <div className="lg:w-1/2 flex justify-center">
             <div className="relative w-64 h-64 sm:w-80 sm:h-80 rounded-full overflow-hidden border-4 border-white dark:border-gray-800 shadow-xl">
               <img
-                src="https://media.licdn.com/dms/image/v2/D4D03AQFssS77C3xtFg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1694274862336?e=1753920000&v=beta&t=kciHKhHrZbHfryI6DwkQZZd7yJcP2tXGB68OsFKLfjQ"
+                src="https://media.licdn.com/dms/image/v2/D4D03AQFssS77C3xtFg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1694274862336?e=1769644800&v=beta&t=gno4djchOieFyjDXXgxYto65LPeFKGcn1O94om1-PBE"
                 alt="Joel Osei"
                 className="w-full h-full object-cover"
               />

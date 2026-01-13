@@ -49,7 +49,7 @@ export const projects: Project[] = [
     id: '5',
     title: 'Join Us',
     description: 'A simple Node.js + Express web app that collects email signups and displays the total number of users stored in a MySQL database.',
-    imageUrl: 'https://res.cloudinary.com/dexuebsgh/image/upload/v1748625688/Portfolio/e42dmg0j4o9zyk71xtoj.png',
+    imageUrl: 'https://images.unsplash.com/photo-1499346030926-9a72daac6c63?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     technologies: ['HTML', 'JavaScript', 'CSS', 'MySql', 'Express.js', 'Node.js', 'Bootstrap', 'Cloudinary', 'EJS'],
     liveUrl: 'https://join-us-nm6s.onrender.com/',
     githubUrl: 'https://github.com/Oseij96/join_us',
