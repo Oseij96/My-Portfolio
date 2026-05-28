@@ -13,7 +13,7 @@ export const certificates: Certificate[] = [
     title: 'Oracle Cloud Infrastructure 2025 Certified Foundations Associate',
     issuer: 'Oracle',
     date: '2025',
-    imageUrl: '/https://res.cloudinary.com/dexuebsgh/image/upload/v1780007837/APEX%20apps/OCI_Foundation_Certificate_xnue7q.png',
+    imageUrl: 'https://res.cloudinary.com/dexuebsgh/image/upload/v1780008557/APEX%20apps/OCI_Foundation_Certificate_nuvgfr.png',
     credentialUrl: 'https://catalog-education.oracle.com/pls/certview/sharebadge?id=CBED80E0A36C4414DF4E4A382138284999C81FAB1B9A1833FFD3425FA677E118',
   },
 
