@@ -1,5 +1,5 @@
-import React from 'react';
-import { ChevronDown } from 'lucide-react';
+import React from "react";
+import { ChevronDown } from "lucide-react";
 
 const Hero: React.FC = () => {
   return (
@@ -9,21 +9,24 @@ const Hero: React.FC = () => {
     >
       <div className="absolute top-0 right-0 -z-10 w-1/2 h-1/2 bg-blue-100 dark:bg-blue-900/20 rounded-bl-full opacity-50"></div>
       <div className="absolute bottom-0 left-0 -z-10 w-1/2 h-1/2 bg-purple-100 dark:bg-purple-900/20 rounded-tr-full opacity-50"></div>
-      
+
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="flex flex-col lg:flex-row items-center gap-12">
           <div className="lg:w-1/2 space-y-8">
             <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold leading-tight">
               <span className="block">Hi, I'm</span>
-              <span className="text-blue-600 dark:text-blue-400 block">Joel Osei</span>
+              <span className="text-blue-600 dark:text-blue-400 block">
+                Joel Osei
+              </span>
               <span className="block">Web Developer</span>
             </h1>
-            
+
             <p className="text-lg text-gray-700 dark:text-gray-300 max-w-xl">
-              I build exceptional digital experiences that are fast, accessible, 
-              visually appealing, and responsive. Let's turn your vision into reality.
+              I build exceptional digital experiences that are fast, accessible,
+              visually appealing, and responsive. Let's turn your vision into
+              reality.
             </p>
-            
+
             <div className="flex flex-wrap gap-4">
               <a
                 href="#projects"
@@ -39,11 +42,11 @@ const Hero: React.FC = () => {
               </a>
             </div>
           </div>
-          
+
           <div className="lg:w-1/2 flex justify-center">
             <div className="relative w-64 h-64 sm:w-80 sm:h-80 rounded-full overflow-hidden border-4 border-white dark:border-gray-800 shadow-xl">
               <img
-                src="https://media.licdn.com/dms/image/v2/D4D03AQFssS77C3xtFg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1694274862336?e=1769644800&v=beta&t=gno4djchOieFyjDXXgxYto65LPeFKGcn1O94om1-PBE"
+                src="https://res.cloudinary.com/dexuebsgh/image/upload/v1779995114/APEX%20apps/Portfolio_Pic_vvlbsg.png"
                 alt="Joel Osei"
                 className="w-full h-full object-cover"
               />
@@ -51,7 +54,7 @@ const Hero: React.FC = () => {
           </div>
         </div>
       </div>
-      
+
       <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 animate-bounce">
         <a href="#projects" aria-label="Scroll down">
           <ChevronDown size={32} className="text-blue-600 dark:text-blue-400" />
