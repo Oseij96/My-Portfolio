@@ -24,7 +24,7 @@ export const certificates: Certificate[] = [
     title: "Oracle Data Platform 2025 Certified Foundations Associate",
     issuer: "Oracle",
     date: "2025",
-    imageUrl: "/certificates/oracle-oci-foundations.png",
+    imageUrl: "/certificates/oracle-oci-foundations.jpg",
     credentialUrl:
       "https://catalog-education.oracle.com/pls/certview/sharebadge?id=58A83D850773A5949ADC23FF96F6952A650CBCE745C9080094679C3B823178FB",
   },
