@@ -14,7 +14,7 @@ export const certificates: Certificate[] = [
     issuer: "Oracle",
     date: "2025",
     imageUrl:
-      "/certificates/oracle-oci-foundations.webp",
+      "/certificates/oracle-oci-foundations.jpg",
     credentialUrl:
       "https://catalog-education.oracle.com/pls/certview/sharebadge?id=CBED80E0A36C4414DF4E4A382138284999C81FAB1B9A1833FFD3425FA677E118",
   },
@@ -24,7 +24,8 @@ export const certificates: Certificate[] = [
     title: "Oracle Data Platform 2025 Certified Foundations Associate",
     issuer: "Oracle",
     date: "2025",
-    imageUrl: "/certificates/oracle-oci-foundations.jpg",
+    imageUrl:
+      "https://res.cloudinary.com/dexuebsgh/image/upload/v1780007839/APEX%20apps/Oracle_Data_Foundation_Certificate_nqoqup.png",
     credentialUrl:
       "https://catalog-education.oracle.com/pls/certview/sharebadge?id=58A83D850773A5949ADC23FF96F6952A650CBCE745C9080094679C3B823178FB",
   },
