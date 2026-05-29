@@ -14,7 +14,7 @@ export const certificates: Certificate[] = [
     issuer: "Oracle",
     date: "2025",
     imageUrl:
-      "/certificates/oracle-oci-foundations.jpg",
+      "https://res.cloudinary.com/dexuebsgh/image/upload/v1780095591/Apex%202/oracle-oci-foundations_mkxuaa.png",
     credentialUrl:
       "https://catalog-education.oracle.com/pls/certview/sharebadge?id=CBED80E0A36C4414DF4E4A382138284999C81FAB1B9A1833FFD3425FA677E118",
   },
