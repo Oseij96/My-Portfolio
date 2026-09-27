@@ -10,6 +10,17 @@ export interface Certificate {
 export const certificates: Certificate[] = [
   {
     id: "1",
+    title: "Oracle APEX Cloud Certified Developer Professional",
+    issuer: "Oracle",
+    date: "2026",
+    imageUrl:
+      "https://res.cloudinary.com/dexuebsgh/image/upload/v1790526631/APEX%20apps/APEX_certificate_y8swdw.png",
+    credentialUrl:
+      "https://catalog-education.oracle.com/pls/certview/sharebadge?id=39D045233F5EEE219061622AAC308324059E4FEAF9EAD045CD6223344EDA1A36",
+  },
+
+  {
+    id: "2",
     title: "Oracle Cloud Infrastructure 2025 Certified Foundations Associate",
     issuer: "Oracle",
     date: "2025",
@@ -20,7 +31,7 @@ export const certificates: Certificate[] = [
   },
 
   {
-    id: "2",
+    id: "3",
     title: "Oracle Data Platform 2025 Certified Foundations Associate",
     issuer: "Oracle",
     date: "2025",
@@ -31,7 +42,7 @@ export const certificates: Certificate[] = [
   },
 
   {
-    id: "3",
+    id: "4",
     title: "The Web Development Bootcamp",
     issuer: "Udemy",
     date: "July 2023",
@@ -42,7 +53,7 @@ export const certificates: Certificate[] = [
   },
 
   {
-    id: "4",
+    id: "5",
     title: "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert",
     issuer: "Udemy",
     date: "April 2025",
@@ -53,7 +64,7 @@ export const certificates: Certificate[] = [
   },
 
   {
-    id: "5",
+    id: "6",
     title: "Website Development Foundations Certification",
     issuer: "Staff Skills Academy+",
     date: "April 2025",
@@ -61,5 +72,5 @@ export const certificates: Certificate[] = [
       "https://images.pexels.com/photos/196645/pexels-photo-196645.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     credentialUrl:
       "https://staff-skills-training.beta.staffskillstraining.co.uk/certificate",
-  },
+  }
 ];
